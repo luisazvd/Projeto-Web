@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Monoton', cursive;
+  text-align: center;
+}
+
+body{
+  background-color: #e6ccff;
+}
+
+.site{
+  background-color: #FFFFFF;
+  width: 500px;
+  margin: 0px auto;
+  padding: 50px;
+}
+
+.site .conteudo{
+  background-color: #33ffff;
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  border-width: 5px;
+  border-color:  #a64dff;
+  border-style: dashed;
+}
